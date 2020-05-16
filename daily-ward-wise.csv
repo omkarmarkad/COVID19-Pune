@@ -1,17 +1,17 @@
-State,Region,Ward,Total_Cases,New_Cases,Total_Deaths
-MH,Pune,Aundh - Baner,5,0,1
-MH,Pune,Kothrud - Bavdhan ,4,0,0
-MH,Pune,Sinhagad Road ,15,0,0
-MH,Pune,Warje - Karvenagar ,15,0,1
-MH,Pune,Shivajinagar - Ghole Road,326,0,4
-MH,Pune,Kasaba - Vishrambaugwada,319,0,6
-MH,Pune,Dhankawadi - Sahakarnagar ,135,0,2
-MH,Pune,Bhawani Peth ,511,0,15
-MH,Pune,Bibwewadi ,145,0,2
-MH,Pune,Dhole Patil Road ,409,0,3
-MH,Pune,Yerwada - Kalas - Dhanori ,294,0,3
-MH,Pune,Nagar Road - Wadgaon Sheri,65,0,0
-MH,Pune,Wanawadi - Ramtekdi ,132,0,6
-MH,Pune,Kondhwa - Yewalerwadi ,34,0,1
-MH,Pune,Hadapsar - Mundhawa,64,0,5
-MH,Pune,Outside Pune ,109,0,2
+State,Region,Ward,Total Cases,New Cases,Total Deaths,Total Recovered
+MH,Pune,Aundh - Baner,4,0,0,4
+MH,Pune,Kothrud - Bavdhan ,10,0,0,4
+MH,Pune,Sinhagad Road ,23,0,0,10
+MH,Pune,Warje - Karvenagar ,17,0,3,8
+MH,Pune,Shivajinagar - Ghole Road,335,0,6,184
+MH,Pune,Kasaba - Vishrambaugwada,282,0,12,116
+MH,Pune,Dhankawadi - Sahakarnagar ,231,0,11,103
+MH,Pune,Bhawani Peth ,600,0,45,288
+MH,Pune,Bibwewadi ,153,0,8,39
+MH,Pune,Dhole Patil Road ,488,0,16,249
+MH,Pune,Yerwada - Kalas - Dhanori ,371,0,19,154
+MH,Pune,Nagar Road - Wadgaon Sheri,89,0,3,47
+MH,Pune,Wanawadi - Ramtekdi ,142,0,13,56
+MH,Pune,Kondhwa - Yewalerwadi ,47,0,4,22
+MH,Pune,Hadapsar - Mundhawa,78,0,9,33
+MH,Pune,Outside Pune ,129,0,12,56
