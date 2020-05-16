@@ -2,8 +2,6 @@
 
 COVID-19 Pune Data
 
-daily-case-counts.csv	- Daily Case Counts Data
-
 timeseries-case-counts.csv - Daywise Case Counts Data
 
 daily-ward-wise.csv - Daily Wardwise Data
